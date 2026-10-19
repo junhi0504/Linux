@@ -56,7 +56,7 @@
 ## `shadow` / `passwd` 필드형식
 * <img width="812" height="262" alt="image" src="https://github.com/user-attachments/assets/da26a240-a91d-4906-9149-3f0f7061ebd1" />
 
-##. `/etc` 주요 설정 파일 (파일 역할 매칭)**
+## `/etc` 주요 설정 파일 (파일 역할 매칭)**
 * **`/etc/profile`**: 시스템 전체의 환경 변수(`PATH`, 자동 로그아웃 시간인 `TMOUT` 등) 설정 파일
 * **`/etc/passwd`**: 사용자 계정의 기본 정보(UID, 홈 디렉터리, 셸 등) 저장 파일
 * **`/etc/shadow`**: 암호화된 비밀번호와 만료 기간 등 보안 정보 저장 파일 (관리자만 접근 가능)
