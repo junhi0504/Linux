@@ -52,3 +52,7 @@
 * **`man 3 printf`**: 라이브러리 호출
 * **`man 5 /etc/passwd`**: 파일 형식과 관례
 * **`man 8 fdisk`**: 시스템 관리자 명령어 및 데몬
+
+### `shadow` / `passwd` 필드형식
+* <img width="812" height="262" alt="image" src="https://github.com/user-attachments/assets/da26a240-a91d-4906-9149-3f0f7061ebd1" />
+
