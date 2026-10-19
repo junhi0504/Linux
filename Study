@@ -45,6 +45,8 @@ rm
 -f 오류 무시하고 강제 삭제
 -v 삭제 과정 상세 출력
 
+<img width="812" height="262" alt="Image" src="https://github.com/user-attachments/assets/d521afb1-d1ec-4c7c-b4f6-113805b423d9" />
+
 man 명령어 섹션
 man 1 rm 일반 사용자 명령어
 man 3 printf 라이브러리 호출
